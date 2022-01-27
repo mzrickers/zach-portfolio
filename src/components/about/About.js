@@ -14,14 +14,10 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
           <p className="a-sub">
-            It is a long established fact that a reader will be distracted by the
-            readable content.
+            I am a budding programmer looking to make a lasting impact on the world through creative colloboration.
           </p>
           <p className="a-desc">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-            minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+            I am originally from the United States and recently moved to Prague.  I am looking to network and find creative people who inspire and influence me to creative beautiful and productive applications.
           </p>
       </div>
     </div>

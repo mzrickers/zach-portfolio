@@ -9,8 +9,7 @@ const ProjectList = () => {
         <h1 className="pl-title">Create & inspire. It's what I do</h1>
         <p className="pl-desc">
           I have a creative portfolio for everything from dance to art.
-          Beautiful homes, stunning portfolio styles & a whole lot more awaits
-          inside.
+          I am currently working on a website for an English grammar web comic called the Punctuators.
         </p>
       </div>
       <div className="pl-list">
